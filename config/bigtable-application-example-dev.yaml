@@ -1,0 +1,4 @@
+bigtableConfig:
+  projectId: uk-demo-project
+  instanceId: covid-dataset
+  tableName: dev-covid-italy
